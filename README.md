@@ -37,6 +37,7 @@ Each project is a testament to independent learning, deep technical understandin
 ### 🔥 Beyond the Code: My Learning Philosophy
 
 My journey at 42 Istanbul has instilled a profound appreciation for **autonomy, peer-learning, and continuous challenge**. I thrive in environments that push boundaries and encourage deep dives into complex technical problems.
+
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2d0anIyMHE1eHZ4OTdhdDZoMWdiNHo4bDU1am11Ym4xcGUzaGl3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UHprOB2h0CBWJ7gz9i/giphy.gif)
 
 ---
